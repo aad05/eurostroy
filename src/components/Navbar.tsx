@@ -17,7 +17,10 @@ export default function Navbar() {
 		<nav className="w-full flex justify-center items-center py-4">
 			<div className="w-full max-w-7xl flex items-center justify-between rounded-full shadow-sm bg-white px-6 py-2">
 				{/* Logo */}
-				<div onClick={()=> navigate("/")} className="flex items-center space-x-2">
+				<div
+					onClick={() => navigate("/")}
+					className="flex items-center space-x-2"
+				>
 					<span className="font-bold text-xl text-black">EuroStroy</span>
 				</div>
 				{/* Nav Links */}
@@ -27,31 +30,109 @@ export default function Navbar() {
 							<NavigationMenuList>
 								<NavigationMenuItem>
 									<NavigationMenuTrigger>Xizmatlarimiz</NavigationMenuTrigger>
-									<NavigationMenuContent>
-										<div className="flex w-full justify-between gap-2">
+									<NavigationMenuContent className="">
+										<div className="flex w-fit justify-between gap-2">
 											<div className="flex flex-col gap-2">
-												<Button variant="link" onClick={()=>navigate("/xizmatlar/plotnik")} >Plotnik</Button>
-												<Button variant="link" className="pl-0">Mebelshik</Button>
-												<Button variant="link">Patalokchik</Button>
-												<Button variant="link">Pilitchik</Button>
-												<Button variant="link">Kamenshik</Button>
-												<Button variant="link">Malyarshik</Button>
-												<Button variant="link">Kafelshik</Button>
-												<Button variant="link">Svarshik</Button>
-												<Button variant="link">Gruzchik</Button>
-												<Button variant="link">Raznarabotchik</Button>
+												<h3
+													onClick={() => navigate("/xizmatlar/plotnik")}
+													className="text-sm hover:underline pb-1"
+												>
+													Plotnik
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/mebelshik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Mebelshik
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/pilitchik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Pilitchik
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/kamenshik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Kamenshik
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/malyarshik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Malyarshik
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/kafelshik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Kafelshik
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/svarshik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Svarshik
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/gruzchik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Gruzchik
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/raznarabotchik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Raznarabotchik
+												</h3>
 											</div>
 											<div className="flex flex-col gap-2">
-												<Button variant="link">Sadovnik</Button>
-												<Button variant="link">
+												<h3
+													onClick={() => navigate("/xizmatlar/sadovnik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Sadovnik
+												</h3>
+												<h3
+													onClick={() =>
+														navigate(
+															"/xizmatlar/konditsioner-televizor-ustanovka",
+														)
+													}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
 													Konditsioner i Televizor Ustanovka
-												</Button>
-												<Button variant="link">
+												</h3>
+												<h3
+													onClick={() =>
+														navigate(
+															"/xizmatlar/remont-xolodilnika-i-akfa-dver-i-okno",
+														)
+													}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
 													Remont Xolodilnika i Akfa dver i okno
-												</Button>
-												<Button variant="link">Kosit gazon</Button>
-												<Button variant="link">Obrezka derevev</Button>
-												<Button variant="link">Uborshik</Button>
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/kosht-gazon")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Kosht gazon
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/obrezka-derevev")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Obrezka derevev
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/uborshik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Uborshik
+												</h3>
 											</div>
 										</div>
 									</NavigationMenuContent>
@@ -73,6 +154,9 @@ export default function Navbar() {
 								</NavigationMenuItem>
 							</NavigationMenuList>
 						</NavigationMenu>
+						<Button variant="link" className="pl-0">
+							Gruzchik
+						</Button>
 					</ul>
 				</div>
 				{/* Auth Buttons */}

@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Home from "./pages/home";
-import Plotnik from "./pages/xizmatlar/plotnik";
+import Xizmatlar from "./pages/xizmatlar";
 
 function App() {
 	return (
@@ -10,7 +10,7 @@ function App() {
 			<Navbar />
 			<Routes>
 				<Route index element={<Home />} />
-				<Route path="/xizmatlar/plotnik" element={<Plotnik />} />
+				<Route path="/xizmatlar/:ximat" element={<Xizmatlar />} />
 			</Routes>
 		</div>
 	);
