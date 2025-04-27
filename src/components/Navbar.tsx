@@ -29,7 +29,7 @@ export default function Navbar() {
 						<NavigationMenu>
 							<NavigationMenuList>
 								<NavigationMenuItem>
-									<NavigationMenuTrigger>Xizmatlarimiz</NavigationMenuTrigger>
+									<NavigationMenuTrigger>Услуги</NavigationMenuTrigger>
 									<NavigationMenuContent className="">
 										<div className="flex w-fit justify-between gap-2">
 											<div className="flex flex-col gap-2">
@@ -159,17 +159,12 @@ export default function Navbar() {
 								</NavigationMenuItem>
 								<NavigationMenuItem>
 									<NavigationMenuLink className={navigationMenuTriggerStyle()}>
-										Euroremont
+									Евроремонт
 									</NavigationMenuLink>
 								</NavigationMenuItem>
 								<NavigationMenuItem>
 									<NavigationMenuLink className={navigationMenuTriggerStyle()}>
-										Podklyuj
-									</NavigationMenuLink>
-								</NavigationMenuItem>
-								<NavigationMenuItem>
-									<NavigationMenuLink className={navigationMenuTriggerStyle()}>
-										Bog'lanish
+									Подключ
 									</NavigationMenuLink>
 								</NavigationMenuItem>
 							</NavigationMenuList>
@@ -179,7 +174,7 @@ export default function Navbar() {
 				{/* Auth Buttons */}
 				<div className="flex items-center space-x-2">
 					<Button className="rounded-full px-6 py-2 bg-black text-white hover:bg-zinc-800 text-[15px] font-medium shadow-none">
-						Bron qilish
+					Связаться
 					</Button>
 				</div>
 			</div>
