@@ -2,7 +2,7 @@ import { AspectRatio } from "@/components/ui/aspect-ratio";
 import { useMemo } from "react";
 import { useParams } from "react-router-dom";
 
-const xizmatlar = {
+const xizmatlar:any = {
 	plotnik: {
     "title": "Услуги плотника",
     "description": "Профессиональные услуги плотника для вашего дома и бизнеса. Изготовление, установка и ремонт изделий из дерева любой сложности: от мебели до крупных строительных конструкций. Качество, надёжность и индивидуальный подход к каждому клиенту!",
