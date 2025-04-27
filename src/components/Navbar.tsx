@@ -37,101 +37,121 @@ export default function Navbar() {
 													onClick={() => navigate("/xizmatlar/plotnik")}
 													className="text-sm hover:underline pb-1"
 												>
-													Plotnik
+													Плотник
 												</h3>
 												<h3
 													onClick={() => navigate("/xizmatlar/mebelshik")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Mebelshik
+													Мебельщики
 												</h3>
 												<h3
-													onClick={() => navigate("/xizmatlar/pilitchik")}
+													onClick={() => navigate("/xizmatlar/patalokchik")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Pilitchik
+													Паталочники
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/plitochnik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Плиточник
 												</h3>
 												<h3
 													onClick={() => navigate("/xizmatlar/kamenshik")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Kamenshik
+													Каменщик
 												</h3>
 												<h3
 													onClick={() => navigate("/xizmatlar/malyarshik")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Malyarshik
+													Малярщик
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/shtukaturshik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Штукатурщик
 												</h3>
 												<h3
 													onClick={() => navigate("/xizmatlar/kafelshik")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Kafelshik
+													Кафельщик
 												</h3>
 												<h3
-													onClick={() => navigate("/xizmatlar/svarshik")}
+													onClick={() => navigate("/xizmatlar/santexnik")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Svarshik
-												</h3>
-												<h3
-													onClick={() => navigate("/xizmatlar/gruzchik")}
-													className="text-sm hover:underline pb-1 text-nowrap"
-												>
-													Gruzchik
-												</h3>
-												<h3
-													onClick={() => navigate("/xizmatlar/raznarabotchik")}
-													className="text-sm hover:underline pb-1 text-nowrap"
-												>
-													Raznarabotchik
+													Сантехник
 												</h3>
 											</div>
 											<div className="flex flex-col gap-2">
 												<h3
-													onClick={() => navigate("/xizmatlar/sadovnik")}
+													onClick={() => navigate("/xizmatlar/svarshik")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Sadovnik
+													Сварщик
 												</h3>
 												<h3
 													onClick={() =>
 														navigate(
-															"/xizmatlar/konditsioner-televizor-ustanovka",
+															"/xizmatlar/raznabochiy",
 														)
 													}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Konditsioner i Televizor Ustanovka
+													Разнорабочий (Мужчина и женщина)
 												</h3>
 												<h3
 													onClick={() =>
 														navigate(
-															"/xizmatlar/remont-xolodilnika-i-akfa-dver-i-okno",
+															"/xizmatlar/ustanovka-konditsioner",
 														)
 													}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Remont Xolodilnika i Akfa dver i okno
+												Yстановка кондиционера
 												</h3>
 												<h3
-													onClick={() => navigate("/xizmatlar/kosht-gazon")}
+													onClick={() => navigate("/xizmatlar/televizor-ustanovka")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Kosht gazon
+													Телевизор установка & Ремонт холодильник
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/dver")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													АКФА дверь и окно
+
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/elektrik")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Электрик
+												</h3>
+												<h3
+													onClick={() => navigate("/xizmatlar/kosit-gazon")}
+													className="text-sm hover:underline pb-1 text-nowrap"
+												>
+													Косить газон
+
 												</h3>
 												<h3
 													onClick={() => navigate("/xizmatlar/obrezka-derevev")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Obrezka derevev
+													Обрезка деревьев
 												</h3>
 												<h3
 													onClick={() => navigate("/xizmatlar/uborshik")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-													Uborshik
+													Уборщик
 												</h3>
 											</div>
 										</div>

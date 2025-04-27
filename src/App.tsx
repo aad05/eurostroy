@@ -10,7 +10,7 @@ function App() {
 			<Navbar />
 			<Routes>
 				<Route index element={<Home />} />
-				<Route path="/xizmatlar/:ximat" element={<Xizmatlar />} />
+				<Route path="/xizmatlar/:xizmat" element={<Xizmatlar />} />
 			</Routes>
 		</div>
 	);
