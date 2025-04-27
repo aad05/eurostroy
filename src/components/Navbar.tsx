@@ -174,9 +174,6 @@ export default function Navbar() {
 								</NavigationMenuItem>
 							</NavigationMenuList>
 						</NavigationMenu>
-						<Button variant="link" className="pl-0">
-							Gruzchik
-						</Button>
 					</ul>
 				</div>
 				{/* Auth Buttons */}
