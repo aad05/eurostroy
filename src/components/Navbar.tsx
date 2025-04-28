@@ -96,27 +96,23 @@ export default function Navbar() {
 													Сварщик
 												</h3>
 												<h3
-													onClick={() =>
-														navigate(
-															"/xizmatlar/raznabochiy",
-														)
-													}
+													onClick={() => navigate("/xizmatlar/raznabochiy")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
 													Разнорабочий (Мужчина и женщина)
 												</h3>
 												<h3
 													onClick={() =>
-														navigate(
-															"/xizmatlar/ustanovka-konditsioner",
-														)
+														navigate("/xizmatlar/ustanovka_konditsioner")
 													}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
-												Yстановка кондиционера
+													Yстановка кондиционера
 												</h3>
 												<h3
-													onClick={() => navigate("/xizmatlar/televizor-ustanovka")}
+													onClick={() =>
+														navigate("/xizmatlar/televizor_ustanovka")
+													}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
 													Телевизор установка & Ремонт холодильник
@@ -126,7 +122,6 @@ export default function Navbar() {
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
 													АКФА дверь и окно
-
 												</h3>
 												<h3
 													onClick={() => navigate("/xizmatlar/elektrik")}
@@ -135,14 +130,13 @@ export default function Navbar() {
 													Электрик
 												</h3>
 												<h3
-													onClick={() => navigate("/xizmatlar/kosit-gazon")}
+													onClick={() => navigate("/xizmatlar/kosit_gazon")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
 													Косить газон
-
 												</h3>
 												<h3
-													onClick={() => navigate("/xizmatlar/obrezka-derevev")}
+													onClick={() => navigate("/xizmatlar/obrezka_derevev")}
 													className="text-sm hover:underline pb-1 text-nowrap"
 												>
 													Обрезка деревьев
@@ -159,12 +153,12 @@ export default function Navbar() {
 								</NavigationMenuItem>
 								<NavigationMenuItem>
 									<NavigationMenuLink className={navigationMenuTriggerStyle()}>
-									Евроремонт
+										Евроремонт
 									</NavigationMenuLink>
 								</NavigationMenuItem>
 								<NavigationMenuItem>
 									<NavigationMenuLink className={navigationMenuTriggerStyle()}>
-									Подключ
+										Подключ
 									</NavigationMenuLink>
 								</NavigationMenuItem>
 							</NavigationMenuList>
@@ -174,7 +168,7 @@ export default function Navbar() {
 				{/* Auth Buttons */}
 				<div className="flex items-center space-x-2">
 					<Button className="rounded-full px-6 py-2 bg-black text-white hover:bg-zinc-800 text-[15px] font-medium shadow-none">
-					Связаться
+						Связаться
 					</Button>
 				</div>
 			</div>
