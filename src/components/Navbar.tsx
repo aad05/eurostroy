@@ -152,7 +152,10 @@ export default function Navbar() {
 									</NavigationMenuContent>
 								</NavigationMenuItem>
 								<NavigationMenuItem>
-									<NavigationMenuLink className={navigationMenuTriggerStyle()}>
+									<NavigationMenuLink
+										onClick={() => navigate("/euroremont")}
+										className={navigationMenuTriggerStyle()}
+									>
 										Евроремонт
 									</NavigationMenuLink>
 								</NavigationMenuItem>
