@@ -12,6 +12,8 @@ const xizmatlar: any = {
 			"https://media.fulledu.ru/documents/images/1k38/5d420181d6e4a96d6b0c4782/article5d4201812b3669.00869829.jpg",
 			"https://jobcode.org/cdn/93x0qaqkolvu44yhvnw46kmk3p6a/plotnik.jpg",
 			"https://images.pexels.com/photos/209235/pexels-photo-209235.jpeg",
+			"https://ekb-akdgs.ru/upload/resize_cache/iblock/f82/450_450_140cd750bba9870f18aada2478b24840a/31jl5w7vgu1xu7e4hj9y2kdg8vqnb7rd.jpg",
+			"https://lh3.googleusercontent.com/proxy/ZZCmvN57BvPsTOlpQjtD9lR14bmwEls4ycLDmJhdFoI_DGRkC0tVG7GBwUx4mwuoKa_qoue1KERqNDCNNn9UMZqnLTSg3CZr4pNT4fwx6-4mO_OUc8qk8jvGUZ4cCenzNTczVVCrcyoLIVbsSvQGXx03HZD3qv5e",
 		],
 		cards: [
 			{
@@ -51,10 +53,15 @@ const xizmatlar: any = {
 		description:
 			"Профессиональное изготовление, сборка и ремонт мебели на заказ. Индивидуальные решения для дома, офиса и бизнеса. Качественные материалы, современный дизайн и точность в каждой детали!",
 		images: [
-			"https://static.baza.farpost.ru/v/1631522576638_bulletin",
-			"https://static.mk.ru/upload/entities/2023/09/04/19/articles/detailPicture/8a/76/ff/69/753d0462e190ecf5fd1615d6632ac3ec.jpg",
-			"https://industrymebel.ru/wp-content/uploads/2020/05/senior-carpenter-working-with-apprentice-in-workshop-170410420-5a87b85d3418c60037d5644e.jpg",
+			"https://triya.uz/assets/img/furniture/01.png",
+			"https://www.prom.uz/_ipx/f_webp/https://devel.prom.uz/upload/reduced/product_logos/50/ba/50ba752e146156f077f9b147b351fc3a.jpeg",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/mc5b857a8v6-UZ/image;s=864x1152",
 			"https://incrussia.ru/wp-content/uploads/2019/02/iStock-503863654.jpg",
+			"https://live.staticflickr.com/4534/37446214514_5195384bd5_b.jpg",
+			"https://media.dekoruma.com/article/2018/11/04080742/furnitur-kayu-berupa-meja-dan-kerangka-sofa-di-ruang-tamu.jpeg?fit=300%2C160&ssl=1",
+			"https://img.lazcdn.com/g/ff/kf/Sf59d39cabb1946bcab4a65e0711f37efC.jpg_720x720q80.jpg",
+			"https://uz.all.biz/img/uz/catalog/69354.jpeg",
+			"https://5.imimg.com/data5/MG/PP/VQ/SELLER-10298200/modular-kitchen-interior-decorator-services-500x500.png",
 		],
 		cards: [
 			{
@@ -96,8 +103,15 @@ const xizmatlar: any = {
 		images: [
 			"https://vash-vybor.info/wp-content/uploads/2016/07/natjazhnye-potolki-2017-11.jpg",
 			"https://i.pinimg.com/736x/c7/f3/de/c7f3def780e844841dfefcd6e65aaed6.jpg",
-			" https://i.pinimg.com/736x/0c/f5/e8/0cf5e80e7c07ca41f18d3bc9180e8adf.jpg",
+			"https://i.pinimg.com/736x/0c/f5/e8/0cf5e80e7c07ca41f18d3bc9180e8adf.jpg",
 			"https://i.pinimg.com/736x/72/89/9f/72899f9b3b6c384d6143f6667be261bf.jpg",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/c3av5xkskler2-UZ/image;s=960x1280",
+			"https://usvintagewood.com/wp-content/uploads/2021/02/types-of-ceilings-1024x683.jpg",
+			"https://legendproperties.net/wp-content/uploads/2024/01/Roof-Ceiling-Prices-in-Pakistan-2.1.webp",
+			"https://i.pinimg.com/736x/f2/a0/51/f2a051093ff2eb67d7faedb5918786e8.jpg",
+			"https://5.imimg.com/data5/SELLER/Default/2022/8/LV/IO/ZX/95466109/residential-pop-false-ceiling-service-500x500.jpg",
+			"https://5.imimg.com/data5/SELLER/Default/2022/6/ZT/GZ/DV/74785806/living-room-pop-false-ceiling-service-500x500.jpeg",
+			"https://i.pinimg.com/736x/58/c8/a6/58c8a61bac58c331609118849b653f04.jpg",
 		],
 		cards: [
 			{
@@ -177,6 +191,7 @@ const xizmatlar: any = {
 			"https://ir.ozone.ru/s3/multimedia-9/w1200/6753077973.jpg",
 			"https://avatars.mds.yandex.net/i?id=81816ccdef7b658fc43dde88cf1a717d_l-7575569-images-thumbs&n=13",
 			"https://avatars.mds.yandex.net/i?id=8a19dc274d7f8138aff44e8f92bc3e2f_l-12491002-images-thumbs&n=13",
+			"https://migrant.uz/wp-content/uploads/2016/03/kamenshik.png",
 		],
 		cards: [
 			{
