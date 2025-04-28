@@ -160,7 +160,10 @@ export default function Navbar() {
 									</NavigationMenuLink>
 								</NavigationMenuItem>
 								<NavigationMenuItem>
-									<NavigationMenuLink className={navigationMenuTriggerStyle()}>
+									<NavigationMenuLink
+										onClick={() => navigate("/podklyuj")}
+										className={navigationMenuTriggerStyle()}
+									>
 										Подключ
 									</NavigationMenuLink>
 								</NavigationMenuItem>
