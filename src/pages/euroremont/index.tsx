@@ -12,6 +12,13 @@ const euroremont: any = {
 		"https://www.ustabor.uz/upload/images/%D0%95%D0%B2%D1%80%D0%BE%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/evroremont_tashkent2.jpg",
 		"https://pro911.com.ua/images/0308161.jpg",
 		"https://www.remontexpress.ru/upload/resize_cache/iblock/d29/568_10000_0/d29152ad73aa380a77c4e5907169c723.jpg",
+		"https://www.prorabneva.ru/storage/post_content/October2021/7iqAR50OomAy0NhPqaT5.jpeg",
+		"https://desinghome.ru/wp-content/uploads/2020/11/83f831fcc10fa1cface0deb97424bac3.jpg",
+		"https://cdn0.divan.ru/img/v1/nrJpstLxSd1-Ut4OKyjHaq39heydJCoKdLBaxT8EA5Q/rs:fit:1920:1440:0:0/g:ce:0:0/bg:ffffff/q:85/czM6Ly9kaXZhbi93aWtpLWFydGljbGUvNDkxODMzOC5qZmlm.jpg",
+		"https://pro-dachnikov.com/uploads/posts/2023-01/thumbs/1673103601_pro-dachnikov-com-p-remont-kvartir-do-i-posle-foto-43.jpg",
+		"https://pro-dachnikov.com/uploads/posts/2023-01/thumbs/1673103593_pro-dachnikov-com-p-remont-kvartir-do-i-posle-foto-6.jpg",
+		"https://dekorin.me/wp-content/uploads/2021/12/Remont-kvartir-do-i-posle-remonta-primer.jpg",
+		"https://static.tildacdn.net/tild3763-3437-4064-a665-383034313038/20220122_194920.jpg",
 	],
 	cards: [
 		{

@@ -164,7 +164,7 @@ export default function Navbar() {
 										onClick={() => navigate("/podklyuj")}
 										className={navigationMenuTriggerStyle()}
 									>
-										Подключ
+										Строительство
 									</NavigationMenuLink>
 								</NavigationMenuItem>
 							</NavigationMenuList>

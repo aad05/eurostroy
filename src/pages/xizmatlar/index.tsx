@@ -155,6 +155,7 @@ const xizmatlar: any = {
 			"https://sun9-12.userapi.com/impg/6mFw3VA3-arv7ruVQGB3sy9Q8inANummhkllVg/rh02CS0DSyM.jpg?size=604x477&quality=96&sign=0ff8a467f189a2d9e1ab821c391b24e2&type=album",
 			"https://poprofessii.in.ua/Upload/CatImgs/174822_213_alt2_professiya-plitochnik-min.jpg",
 			"https://avatars.mds.yandex.net/get-altay/2838749/2a00000171e05cffd65d5a50919736def76b/XXL_height",
+			"https://i.pinimg.com/736x/58/6b/92/586b922fbfdc5f5298e7a1c9a61d2cca.jpg",
 		],
 		cards: [
 			{
@@ -192,6 +193,7 @@ const xizmatlar: any = {
 			"https://avatars.mds.yandex.net/i?id=81816ccdef7b658fc43dde88cf1a717d_l-7575569-images-thumbs&n=13",
 			"https://avatars.mds.yandex.net/i?id=8a19dc274d7f8138aff44e8f92bc3e2f_l-12491002-images-thumbs&n=13",
 			"https://migrant.uz/wp-content/uploads/2016/03/kamenshik.png",
+			"https://static.zarnews.uz/crop/8/c/720__80_8cde5780efad82a303203273bf4dd26e.jpg?img=self&v=1613883704"
 		],
 		cards: [
 			{
@@ -229,6 +231,8 @@ const xizmatlar: any = {
 			"https://avatars.mds.yandex.net/i?id=fafedffb4420abb18afd2628a0190b85-5234343-images-thumbs&ref=rim&n=13&w=1001&h=1001",
 			"https://avatars.mds.yandex.net/i?id=b410327bf7eaa034abbd257f18c4b619_l-10577272-images-thumbs&ref=rim&n=13&w=800&h=800",
 			"https://avatars.mds.yandex.net/i?id=254489f4438afbecabeeacdc4cced299_l-9106775-images-thumbs&ref=rim&n=13&w=1000&h=1000",
+			"https://kslux.uz/upload/malyar-photo1.jpg",
+			"https://101course.ru/assets/images/shtukatur-malyar2023.jpg"
 		],
 		cards: [
 			{
@@ -303,6 +307,12 @@ const xizmatlar: any = {
 			"https://avatars.mds.yandex.net/i?id=0cb2935fdb377cb019eace6b266f3824_l-5235164-images-thumbs&ref=rim&n=13&w=1024&h=734",
 			"https://avatars.mds.yandex.net/i?id=da4412c7644afb5f002b759519243736_l-4815406-images-thumbs&n=13",
 			"https://img.positronica.ru/items/1583388_v01_b.jpg",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/42li8aj73zut2-UZ/image;s=960x1280",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/bexywdxvorwz-UZ/image",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/58jquy9pnz5v2-UZ/image;s=640x640",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/df00uhf55yau3-UZ/image;s=720x1280",
+			"https://metlax.az/uploads/em-razer-grey_1.jpg",
+			"https://www.kafel.az/users/products/63d8ee22e7fc663d8ee22e7fff.jpeg"
 		],
 		cards: [
 			{
@@ -340,6 +350,10 @@ const xizmatlar: any = {
 			"https://avatars.mds.yandex.net/i?id=8ed930ee641f21156cd82ec6cdb8f325_l-4825137-images-thumbs&ref=rim&n=13&w=2560&h=1707",
 			"https://frankfurt.apollo.olxcdn.com/v1/files/ivgir5b8ogvi3-UZ/image;s=1280x786",
 			"https://www.charlottestories.com/wp-content/uploads/2021/04/AdobeStock_302067997-scaled.jpeg",
+			"https://5.imimg.com/data5/SELLER/Default/2023/4/301270031/RO/MJ/HW/55834732/plumber-service.jpg",
+			"https://flashservices.in/wp-content/uploads/2023/05/plumber-services-in-ludhiana-564x675.jpg",
+			"https://www.petetheplumber.com/wp-content/uploads/2019/04/When-To-Call-a-Plumber.jpg",
+			"https://www.obrien.com.au/wp-content/uploads/2021/12/A-Plumber-At-Work.jpg"
 		],
 		cards: [
 			{
@@ -377,6 +391,10 @@ const xizmatlar: any = {
 			"https://avatars.mds.yandex.net/i?id=d2d121172ddf051862a17f5344869a6f_l-5227935-images-thumbs&n=13",
 			"https://vogorod.by/upload/iblock/8ba/8ba90867a713fc31116e7fde00734996.jpg",
 			"https://avatars.mds.yandex.net/i?id=179fb25abf9252efdc37282ef3b0995c_l-5238336-images-thumbs&ref=rim&n=13&w=1000&h=750",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/pzzfddty0gq8-UZ/image",
+			"https://www.ustabor.uz/upload/%D1%81%D0%B2%D0%B0%D1%80%D1%89%D0%B8%D0%BA%D0%B8%20%D0%B2%20%D1%82%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82%D0%B5.jpg",
+			"https://selouabucket.s3.eu-central-1.amazonaws.com/items/96fcf2b31e5511dv.jpg",
+			"https://ergon.edu.pl/wp-content/uploads/2023/02/canva-man-welding-metal-bars-MADyQ4waJlg.jpg"
 		],
 		cards: [
 			{
@@ -414,6 +432,10 @@ const xizmatlar: any = {
 			"https://sun9-5.userapi.com/impg/Rw9zWqjsKFqD72yqqctplocx2iNciruXzEhUJw/BelsSOzxgg8.jpg?size=1200x1000&quality=95&sign=061a016a73929ed56ae7336ba33ebf67&c_uniq_tag=JaNmZWEWEYhQdGQ3E9FF-FHTuKrAUm2OlMuPM1LfUlI&type=album",
 			"https://sun9-7.userapi.com/impg/0982CVafDmfZLwXL0KBONVSFLztKJqZSBg0SmQ/8CT6mwdaqGk.jpg?size=900x900&quality=96&sign=a620588eff45c90aca5ac6eef0e9d379&c_uniq_tag=umZ8vnUFmnfnUqYsobnEhmVAf7DMEx_DWqjjyVBiUY4&type=album",
 			"https://avatars.mds.yandex.net/get-altay/216588/2a0000015b16cedc4bc40077e997c1001b2b/XXL_height",
+			"https://plus.unsplash.com/premium_photo-1723701918806-bf9b3b37a02a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW92aW5nJTIwZnVybml0dXJlfGVufDB8fDB8fHww",
+			"https://media.istockphoto.com/id/1312763503/photo/professional-movers-carrying-in-new-furniture-in-house.jpg?s=612x612&w=0&k=20&c=yetwuBz1766-WNSU0YqLTm5AVyOxP3qo3Tp-t46yCBE=",
+			"https://plantsworld.ae/cdn/shop/files/GardenMaintenanceService.jpg?v=1699873415",
+			"https://st3.depositphotos.com/12039320/16213/i/450/depositphotos_162137780-stock-photo-gardener-in-apron-watering-plants.jpg"
 		],
 		cards: [
 			{
@@ -451,6 +473,11 @@ const xizmatlar: any = {
 			"https://rpk.uz/wp-content/uploads/2019/07/ustanovka-kondicionera-artel-v-tashkente-alpinisty.jpg",
 			"https://topclim.ru/upload/resize_cache/webp/iblock/0a2/0a2f27b335ef720441b52b24eab08b62.webp",
 			"https://cdn.citilink.ru/rLDzms-YSyI1sfbBmMZ3Bo3iFy9OdD4AiYxVXjPC_sA/enlarge:1/gravity:sm/height:601/resizing_type:fit/width:1300/plain/journal/a34c63b1-da44-4b11-aa39-353957802eee.jpg?v5.13.1",
+			"https://www.cmcelectric.com/wp-content/uploads/2018/03/ac-installation.jpg",
+			"https://kitchen.services/wp-content/uploads/2021/09/ac-installation.jpg",
+			"https://ahouseinthehills.com/wp-content/uploads/2024/02/What-To-Consider-When-Installing-Air-Conditioner.jpeg",
+			"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxirdyVkY6qkGqTHwtyGfijy_8FBSl1inyT7zisrCHaYYI0z2KVnYFAO1BNMHwdVzr7g&usqp=CAU",
+			"https://dam.thdstatic.com/content/production/emUHNc7Db6npg8-90QTs4Q/vdll0pPDM_YJsl9JznRG9w/optimizedFile/HS_HVAC_RHEEM_AC_INSTALL.jpg?im=Crop,rect=(75.0461895282452,141.28461162860577,1240.319981971154,775.1999887319712);Resize=(920,575)"
 		],
 		cards: [
 			{
@@ -537,6 +564,9 @@ const xizmatlar: any = {
 			"https://www.anorbank.uz/upload/iblock/b72/b72fd9c1e5ea24792c09b2d54e15876a.jpg",
 			"https://st5.stblizko.ru/images/product/284/065/398_large.jpg",
 			"https://www.dveri-optima.ru/netcat_files/multifile/2485/2039/IMG_7304.jpg",
+			"https://uz.all.biz/img/uz/service_catalog/15256.jpeg",
+			"https://vikna-evi.com.ua/assets/images/tovary/ustanovka-okon.jpeg",
+			"https://oknatitan.ru/assets/images/montag/montplastokon003obr.jpg"
 		],
 		cards: [
 			{
@@ -574,6 +604,9 @@ const xizmatlar: any = {
 			"https://www.kmp63.ru/upload/iblock/836/8361ba8757c66c489bba6fae0cf8a6c6.png",
 			"https://pro-interactive.ru/wp-content/uploads/2022/07/1645767364_63-kartinkin-net-p-elektrik-kartinki-68.jpg",
 			"https://frankfurt.apollo.olxcdn.com/v1/files/djy344kf18ua2-UZ/image;s=1080x611",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/s71c5z03floa2-UZ/image;s=1080x780",
+			"https://frankfurt.apollo.olxcdn.com/v1/files/kxgfv6g4o0j03-UZ/image",
+			"https://i.ytimg.com/vi/ZGlWzzhBEk0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGGUgWShaMA8=&rs=AOn4CLDIrYbXrk8qbqf0dwEQo4wDH0V_Og"
 		],
 		cards: [
 			{
@@ -611,6 +644,9 @@ const xizmatlar: any = {
 			"https://ksd-images.lt/display/krauta_ee/uploads/ca/44370df2/aa22849e.jpg",
 			"https://kwitka.com.ua/image/catalog/articles/0bfb9ead5484b23efd32d5095d2f179e.jpg",
 			"https://avatars.dzeninfra.ru/get-zen_doc/3765046/pub_5f032a0a1b08d82bf647c3f3_5f032a0fad03a52ba7a120be/scale_1200",
+			"https://rutrav.ru/images/articles/kak-strich-gazon-2-1.jpg",
+			"https://sad-dizain.ru/image/catalog/articles/23-07-2019/1.jpg",
+			"https://www.pokrovgazon.ru/images/stories/statya/gazon-strizhka.jpg"
 		],
 		cards: [
 			{
@@ -650,10 +686,10 @@ const xizmatlar: any = {
 		description:
 			"Профессиональная обрезка деревьев для здоровья растений и эстетического вида участка. Формирование кроны, удаление сухих и повреждённых ветвей, подготовка деревьев к сезону. Работаем аккуратно и безопасно!",
 		images: [
-			"https://spart.kh.ua/wp-content/uploads/2021/06/Obrezka-derevev-vesnoy.jpg",
-			"https://skoggy.ru/sites/default/files/inline-images/%D0%BE%D0%B1%D1%80%D0%B5%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D0%B5%D0%B2%201.jpg",
-			"https://www.mauget.ru/wp-content/webp-express/webp-images/uploads/2020/09/obrezka-1000x520.jpg.webp",
-			"https://cdn.botanichka.ru/wp-content/uploads/2018/06/letnyaya-obrezka-02.jpg",
+			"https://protips.vermeer.com/tree-care-landscape/wp-content/uploads/sites/2/2014/05/Tree_cuttingPhoto.jpg",
+			"https://www.pakmow.com.au/images/easyblog_shared/Blogs/H160-0117.jpg",
+			"https://stmaaprodfwsite.blob.core.windows.net/assets/sites/1/2023/02/Wood-cutting-198082993_C_Parilov_AdobeStock.jpg",
+			"https://www.3benefitsof.com/wp-content/uploads/2022/01/tree-felling.png"
 		],
 		cards: [
 			{
@@ -697,6 +733,10 @@ const xizmatlar: any = {
 			"https://avatars.mds.yandex.net/i?id=e5df2a12a1aac05639fd3d042bd49fbe_l-5255455-images-thumbs&ref=rim&n=13&w=1024&h=683",
 			"https://cdn.ananasposter.ru/image/cache/catalog/poster/film/81/16085-1000x830.jpg",
 			"https://avatars.mds.yandex.net/i?id=d2088216d3904031a446ea40b7bbbf1a_l-5427034-images-thumbs&ref=rim&n=13&w=1024&h=664",
+			"https://media.istockphoto.com/id/1421014599/video/female-janitor-with-cleaning-cart-in-school-hallway.jpg?s=640x640&k=20&c=EmBWixwZChZaUF-nyJ3ihXe0aeVqKprQU0Qlz4BauZg=",
+			"https://buildingservicesinc.com/wp-content/uploads/2022/03/beautiful-young-janitor-leaning-at-mop-and-smiling-2021-08-29-22-51-10-utc.jpg",
+			"https://www.branded-group.com/wp-content/uploads/2021/08/commercial-cleaning-products.png",
+			"https://www.branded-group.com/wp-content/uploads/2021/08/commercial-cleaning-company.png"
 		],
 		cards: [
 			{

@@ -1,17 +1,21 @@
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 
 const podklyuj: any = {
-	title: "Подключение и установка",
+	title: "Строительство",
 	description:
 		"Комплексные услуги по подключению, установке и ремонту инженерных систем. Профессиональный подход, оперативное выполнение работ и гарантия качества!",
 	images: [
-		"https://www.prorabneva.ru/storage/post_content/October2021/7iqAR50OomAy0NhPqaT5.jpeg",
-		"https://desinghome.ru/wp-content/uploads/2020/11/83f831fcc10fa1cface0deb97424bac3.jpg",
-		"https://cdn0.divan.ru/img/v1/nrJpstLxSd1-Ut4OKyjHaq39heydJCoKdLBaxT8EA5Q/rs:fit:1920:1440:0:0/g:ce:0:0/bg:ffffff/q:85/czM6Ly9kaXZhbi93aWtpLWFydGljbGUvNDkxODMzOC5qZmlm.jpg",
-		"https://pro-dachnikov.com/uploads/posts/2023-01/thumbs/1673103601_pro-dachnikov-com-p-remont-kvartir-do-i-posle-foto-43.jpg",
-		"https://pro-dachnikov.com/uploads/posts/2023-01/thumbs/1673103593_pro-dachnikov-com-p-remont-kvartir-do-i-posle-foto-6.jpg",
-		"https://dekorin.me/wp-content/uploads/2021/12/Remont-kvartir-do-i-posle-remonta-primer.jpg",
-		"https://static.tildacdn.net/tild3763-3437-4064-a665-383034313038/20220122_194920.jpg",
+		"https://www.hbatc.com/uploads/1/4/0/3/140303369/editor/plans-in-front-of-house.jpg?1642180740",
+		"https://www.build-review.com/wp-content/uploads/2021/04/homebuilder.jpg",
+		"https://i.pinimg.com/736x/1a/1e/74/1a1e74e27222117737c728ee330a807b.jpg",
+		"https://i.pinimg.com/736x/1a/1e/74/1a1e74e27222117737c728ee330a807b.jpg",
+		"https://i.pinimg.com/736x/7a/8e/34/7a8e34dc7749616fffc01fa4689ed2a3.jpg",
+		"https://i.pinimg.com/736x/59/9f/44/599f4488dc9fae4f732fc35b88ad3bed.jpg",
+		"https://i.pinimg.com/736x/3e/c7/ed/3ec7ed3f6d9d0aa31492a79ae02bb5df.jpg",
+		"https://i.pinimg.com/736x/be/b5/68/beb568ade288ac44a8ddeabd8955d319.jpg",
+		"https://i.pinimg.com/736x/2e/19/b4/2e19b4e6af93a6631fd2ccee104480a5.jpg",
+		"https://i.pinimg.com/736x/27/f5/a5/27f5a578dfaee3704cc12f158d5e2598.jpg",
+		"https://i.pinimg.com/736x/48/1b/83/481b831736492ef5f0a5b10c9b145b7a.jpg"
 	],
 	cards: [
 		{
